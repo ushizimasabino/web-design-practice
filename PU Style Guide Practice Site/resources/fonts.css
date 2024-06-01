@@ -1,0 +1,113 @@
+/* Caslon Doric */
+@font-face {
+    font-family: "caslon-doric";
+    src: url('./fonts/Core/Caslon\ Doric/CaslonDoricCondensed-Bold.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Flecha S */
+@font-face {
+    font-family: "Flecha S";
+    src: url('./fonts/Core/Flecha\ S/FlechaS-Light.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Flecha S";
+    src: url('./fonts/Core/Flecha\ S/FlechaS-LightItalic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Libre Franklin */
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-ExtraBold.ttf') format('truetype');
+    font-weight: 800;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-ExtraBoldItalic.ttf') format('truetype');
+    font-weight: 800;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-Light.ttf') format('truetype');
+    font-weight: 300;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-LightItalic.ttf') format('truetype');
+    font-weight: 300;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-MediumItalic.ttf') format('truetype');
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-SemiBold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Libre Franklin";
+    src: url('./fonts/Core/Libre\ Franklin/LibreFranklin-SemiBoldItalic.ttf') format('truetype');
+    font-weight: 600;
+    font-style: italic;
+}
+
+/* Princeton Monticello */
+@font-face {
+    font-family: "Princeton Monticello";
+    src: url('./fonts/Core/Princeton\ Monticello\ Display/PrincetonMonticelloDisplay-Italic.otf') format('opentype');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Princeton Monticello";
+    src: url('./fonts/Core/Princeton\ Monticello\ Display/PrincetonMonticelloDisplay-Regular.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Noto Serif */
+@font-face {
+    font-family: "Noto Serif";
+    src: url('./fonts/Core+/Noto\ Serif\ Display/NotoSerifDisplay-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Poppins */
+@font-face {
+    font-family: "Poppins";
+    src: url('./fonts/Core+/Poppins/Poppins-ExtraBold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}

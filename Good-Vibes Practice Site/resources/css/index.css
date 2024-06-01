@@ -1,0 +1,49 @@
+* {
+    font-family: 'Rustic Shine', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #CCDBDC;
+    text-align: center;
+}
+
+@font-face {
+    font-family: 'Mantana';
+    src: url('./font/MantanaRegular-BWgVG.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Margin';
+    src: url('./font/MarginDemo-7B6ZE.otf') format('opentype');
+}
+@font-face {
+    font-family: 'Rustic Shine';
+    src: url('./font/RusticShine-EalOz.ttf') format('truetype');
+}
+
+h1 {
+    color: #4059AD;
+    font-family: 'Mantana';
+    letter-spacing: 2px;
+}
+
+header {
+    color: #43B929;
+    background-color: #214E34;
+    text-align: right;
+    padding: 10px;
+}
+
+p {
+    color: #214E34;
+    font-size: 18px;
+    text-align: justify;
+}
+
+footer {
+    background-color: #214E34;
+    color: #43B929;
+    font-size: 12px;
+    padding: 10px;
+}
+
+a {
+    color: #E4572E;
+}
+
